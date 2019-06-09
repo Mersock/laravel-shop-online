@@ -6,7 +6,7 @@ services:
       context: '.'
       args:
         uid: ${UID}
-    container_name: laravel-app
+    container_name: laravel-shop-online
     environment:
     - APACHE_RUN_USER=#${UID}
     - APACHE_RUN_GROUP=#${UID}

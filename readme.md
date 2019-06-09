@@ -10,10 +10,10 @@ This is simple project with laravel with Docker
 
 3. Run  `docker-compose up -d`
 
-4. Run  `docker exec laravel-app composer install` or `docker exec laravel-app composer update` 
+4. Run  `docker exec laravel-shop-online composer install` or `docker exec laravel-shop-online composer update` 
 
-5. Run  `docker exec laravel-app php artisan key:generate`
+5. Run  `docker exec laravel-shop-online php artisan key:generate`
 
-6. Run  `docker exec laravel-app php artisan migrate`
+6. Run  `docker exec laravel-shop-online php artisan migrate`
 
 7. Run application http://localhost:8000/

@@ -1,4 +1,4 @@
-## Shop Online with Laravel
+## Laravel Shop Online
 
 This is simple project with laravel with Docker 
 
